@@ -86,7 +86,7 @@ export default function Nav() {
 
         {/* CV Button — desktop */}
         <a
-          href="/files/CV.pdf"
+          href="/files/taqi_fullstack.dev.pdf"
           download
           className="hidden md:flex items-center gap-1.5 px-4 py-1.5 rounded-full text-white ml-3"
           style={{
@@ -153,7 +153,7 @@ export default function Nav() {
                 </motion.div>
               ))}
               <motion.a
-                href="/files/CV.pdf"
+                href="/files/taqi_fullstack.dev.pdf"
                 download
                 className="flex items-center gap-2 px-8 py-3 rounded-full text-white font-semibold text-lg mt-4"
                 style={{ background: 'var(--accent)', fontFamily: 'var(--font-jakarta, sans-serif)' }}

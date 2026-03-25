@@ -225,7 +225,7 @@ export const projects: Project[] = [
       'Replace a legacy WordPress site with a custom multilingual news platform supporting RTL languages (Urdu, Punjabi, Mirpuri) alongside English — with a 5-platform automated social publishing engine, live streaming via WebSockets, and a Stripe/PayPal membership paywall.',
     architecture:
       'Laravel 12 API + Next.js 14 App Router frontend. 5 independent queue jobs (one per social platform) with per-job retry logic and exponential backoff. Laravel Reverb for WebSocket live streams. Laravel Scout + Meilisearch for full-text search. Three-stage Facebook token lifecycle managed correctly.',
-    liveUrl: 'https://cninewsnetwork.co.uk',
+    liveUrl: 'https://cninews.tv',
     accentColor: 'rgba(99, 102, 241, 0.08)',
     accentTint: '#6366F1',
     tech: [

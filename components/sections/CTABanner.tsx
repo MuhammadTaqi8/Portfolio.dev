@@ -58,7 +58,7 @@ export default function CTABanner() {
               Let&apos;s Talk <ArrowRight size={15} />
             </Link>
             <a
-              href="/files/CV.pdf"
+              href="/files/taqi_fullstack.dev.pdf"
               download
               className="inline-flex items-center gap-2 px-7 py-3.5 rounded-full text-sm font-semibold glass-card"
               style={{
